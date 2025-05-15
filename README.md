@@ -4,7 +4,8 @@
 這是個人網頁展示一些生活照及爬蟲成果
 ---
 *網頁連結*
-[點我前往]https://eric-0215.github.io/HW/
+[點我前往](https://eric-0215.github.io/HW/)
+---
 *頁面簡介*
 index.html:自我介紹/爬蟲
 ---
