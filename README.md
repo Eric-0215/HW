@@ -5,9 +5,9 @@
 
 網頁連結
 點我前往
-
+https://eric-0215.github.io/HW/
 頁面簡介
-index.html:自我介紹/生活照/爬蟲結果
+index.html:自我介紹/爬蟲
 
 使用技術
 HTML /CSS /Github Pages
